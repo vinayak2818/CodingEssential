@@ -1,0 +1,152 @@
+2024-02-26 02:24:44,457 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:24:50,094 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49448/devtools/browser/ccc5cfd9-b54f-4dad-a5a3-65b8f306a8f5
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+2024-02-26 02:24:50,102 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:24:50,103 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-02-26 02:24:50,110 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-02-26 02:24:50,112 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials java.lang.NullPointerException
+2024-02-26 02:24:50,114 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-02-26 02:24:50,159 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:24:50,160 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-02-26 02:24:50,161 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:24:50,161 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-02-26 02:24:50,163 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:24:50,163 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
+2024-02-26 02:24:50,179 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:24:51,849 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49463/devtools/browser/4d1cf085-3ed5-4560-bd7b-495a85021285
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+2024-02-26 02:24:51,852 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:24:51,852 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-02-26 02:24:51,858 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials_new java.lang.NullPointerException
+2024-02-26 02:24:51,860 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:24:51,860 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-02-26 02:24:51,863 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:24:51,864 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-02-26 02:24:51,865 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:24:51,865 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
+2024-02-26 02:24:51,868 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:24:54,051 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49478/devtools/browser/c115e384-8dc0-4401-86ee-f08b8688c9c1
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+2024-02-26 02:24:54,053 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:24:54,054 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-02-26 02:24:54,057 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials_new java.lang.NullPointerException
+2024-02-26 02:24:54,058 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:24:54,058 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-02-26 02:24:54,059 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:24:54,060 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-02-26 02:24:54,061 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:24:54,061 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
+2024-02-26 02:24:54,063 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:24:55,777 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49493/devtools/browser/9157a6fa-b94f-4ff2-b243-acb6ef367ef3
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+2024-02-26 02:24:55,778 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:24:55,779 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-02-26 02:24:55,780 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials_new java.lang.NullPointerException
+2024-02-26 02:24:55,781 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:24:55,782 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-02-26 02:24:55,784 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:24:55,785 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-02-26 02:24:55,787 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:24:55,787 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
+2024-02-26 02:24:55,791 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:24:58,208 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49508/devtools/browser/bcf48054-1353-4e7b-a66a-a8b3c1cae850
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: driver.version: ChromeDriver
+2024-02-26 02:24:58,211 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:24:58,211 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-02-26 02:24:58,231 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-02-26 02:24:58,232 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials java.lang.NullPointerException
+2024-02-26 02:24:58,238 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-02-26 02:24:58,344 INFO c.s.a.s.ActiTimeStepDefinition [main] Create an User
+2024-02-26 02:24:58,345 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Create_an_User java.lang.NullPointerException
+2024-02-26 02:24:58,349 INFO c.s.a.s.ActiTimeStepDefinition [main] User should create successfully
+2024-02-26 02:24:58,351 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of User_should_create_successfully java.lang.NullPointerException
+2024-02-26 02:24:58,359 INFO c.s.a.s.ActiTimeStepDefinition [main] delete the user
+2024-02-26 02:24:58,360 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of delete_the_user java.lang.NullPointerException
+2024-02-26 02:24:58,363 INFO c.s.a.s.ActiTimeStepDefinition [main] the user should delete
+2024-02-26 02:24:58,364 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_user_should_delete java.lang.NullPointerException
+2024-02-26 02:24:58,368 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:24:58,369 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-02-26 02:24:58,376 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:24:58,378 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-02-26 02:24:58,386 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:24:58,386 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
+2024-02-26 02:27:08,647 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:27:14,016 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-02-26 02:27:14,028 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:27:20,206 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-02-26 02:27:20,211 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-02-26 02:27:25,522 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials by providing valid credentails
+2024-02-26 02:27:25,525 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-02-26 02:27:27,566 INFO c.s.a.s.ActiTimeStepDefinition [main] The Validation of Display of Home Page has matched successfulyy
+2024-02-26 02:27:27,567 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window
+2024-02-26 02:27:29,652 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window has performed successfully
+2024-02-26 02:27:29,655 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:27:32,323 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-02-26 02:27:32,324 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:27:34,363 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-02-26 02:27:34,365 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:27:34,564 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
+2024-02-26 02:27:34,589 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:27:38,090 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-02-26 02:27:38,092 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:27:44,177 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-02-26 02:27:48,473 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:27:50,760 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-02-26 02:27:50,762 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:27:52,785 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-02-26 02:27:52,787 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:27:52,986 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
+2024-02-26 02:27:52,989 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:27:56,438 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-02-26 02:27:56,440 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:28:02,402 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-02-26 02:28:06,703 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:28:09,046 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-02-26 02:28:09,048 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:28:11,075 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-02-26 02:28:11,078 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:28:11,238 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
+2024-02-26 02:28:11,240 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:28:14,833 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-02-26 02:28:14,834 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:28:20,836 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-02-26 02:28:25,120 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:28:27,450 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-02-26 02:28:27,452 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:28:29,476 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-02-26 02:28:29,478 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:28:29,655 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
+2024-02-26 02:28:29,659 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-02-26 02:28:33,368 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-02-26 02:28:33,370 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-02-26 02:28:38,905 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-02-26 02:28:38,906 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-02-26 02:28:44,203 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials by providing valid credentails
+2024-02-26 02:28:44,206 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-02-26 02:28:46,233 INFO c.s.a.s.ActiTimeStepDefinition [main] The Validation of Display of Home Page has matched successfulyy
+2024-02-26 02:28:46,235 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window
+2024-02-26 02:28:48,325 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window has performed successfully
+2024-02-26 02:28:48,329 INFO c.s.a.s.ActiTimeStepDefinition [main] Create an User
+2024-02-26 02:29:18,333 INFO c.s.a.s.ActiTimeStepDefinition [main] Create an User action has performed successfully
+2024-02-26 02:29:18,335 INFO c.s.a.s.ActiTimeStepDefinition [main] User should create successfully
+2024-02-26 02:29:18,390 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of User Creation has performed successfully 
+2024-02-26 02:29:18,391 INFO c.s.a.s.ActiTimeStepDefinition [main] delete the user
+2024-02-26 02:29:24,615 INFO c.s.a.s.ActiTimeStepDefinition [main] delete the user step has performed successfully
+2024-02-26 02:29:24,620 INFO c.s.a.s.ActiTimeStepDefinition [main] the user should delete
+2024-02-26 02:29:24,639 INFO c.s.a.s.ActiTimeStepDefinition [main] the user should delete, action has performed successfully
+2024-02-26 02:29:24,642 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-02-26 02:29:26,956 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-02-26 02:29:26,958 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-02-26 02:29:28,981 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-02-26 02:29:28,983 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-02-26 02:29:29,161 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
